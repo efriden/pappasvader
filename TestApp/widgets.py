@@ -11,7 +11,7 @@ import TestApp.weather as w
 import TestApp.news as n
 
 class Weather(NumberWidget):
-	title = "Temperatur:"
+	title = "Temperatur närmaste timmen:"
 	def get_value(self):
 		weatherData = w.getCurrentWeather()
 		return str(weatherData["temperature"]) + "\u00b0C"
