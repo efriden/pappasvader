@@ -1,6 +1,6 @@
 certifi==2018.10.15
 chardet==3.0.4
-Django==2.1.2
+Django==2.2.24
 django-autoslug-iplweb==1.9.4
 django-dashing==0.3.3
 django-heroku==0.3.1
