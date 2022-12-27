@@ -19,7 +19,7 @@ psycopg2==2.7.6.1
 python-dateutil==2.7.5
 pytz==2018.7
 requests==2.20.0
-setuptools==39.0.1
+setuptools==65.5.1
 six==1.11.0
 transliterate==1.10.2
 Unidecode==1.0.22
